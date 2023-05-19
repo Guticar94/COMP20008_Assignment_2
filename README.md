@@ -55,7 +55,7 @@ Creation and Developed by:
 
 <table>
   <tr>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/133085588?v=4" width="100px;" alt=""/><br /><sub><b>Liam</b></sub></a><br /></td>
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/131924187?v=4" width="100px;" alt=""/><br /><sub><b>Liam</b></sub></a><br /></td>
   </tr>
 </table>
 
